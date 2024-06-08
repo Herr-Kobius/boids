@@ -5,7 +5,7 @@
   <br>
 </h1>
 
-<h4 align="center">A flocking Simulation using the three simple steering behaviors based on the local flockmates.
+<h4 align="center">A flocking simulation that utilizes three basic steering behaviors based on nearby flockmates.
 <br>
 <br>
 <p align="center">
